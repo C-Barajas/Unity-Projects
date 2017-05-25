@@ -1,0 +1,180 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 5500 (ID=0x1616)
+    Vendor:   Intel
+    VRAM:     3033 MB
+    Driver:   10.18.14.4139
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Christian\Desktop\_Spring 2017\Adv_Gaming\Project_1\_RogueishProject\_Rogueish_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Christian\Desktop\_Spring 2017\Adv_Gaming\Project_1\_RogueishProject\_Rogueish_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Christian\Desktop\_Spring 2017\Adv_Gaming\Project_1\_RogueishProject\_Rogueish_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Christian\Desktop\_Spring 2017\Adv_Gaming\Project_1\_RogueishProject\_Rogueish_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Christian\Desktop\_Spring 2017\Adv_Gaming\Project_1\_RogueishProject\_Rogueish_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Christian\Desktop\_Spring 2017\Adv_Gaming\Project_1\_RogueishProject\_Rogueish_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Christian\Desktop\_Spring 2017\Adv_Gaming\Project_1\_RogueishProject\_Rogueish_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Christian\Desktop\_Spring 2017\Adv_Gaming\Project_1\_RogueishProject\_Rogueish_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Christian\Desktop\_Spring 2017\Adv_Gaming\Project_1\_RogueishProject\_Rogueish_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Christian\Desktop\_Spring 2017\Adv_Gaming\Project_1\_RogueishProject\_Rogueish_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.130 seconds
+Platform assembly: C:\Users\Christian\Desktop\_Spring 2017\Adv_Gaming\Project_1\_RogueishProject\_Rogueish_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Christian\Desktop\_Spring 2017\Adv_Gaming\Project_1\_RogueishProject\_Rogueish_Data\Managed\System.dll (this message is harmless)
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object '_coin') is missing!
+ 
+(Filename:  Line: 1754)
+
+UnloadTime: 44.934498 ms
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object '_coin') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object '_coin') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object '_coin') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object '_coin') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object '_coin') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object '_coin') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object '_coin') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object '_coin') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object '_coin') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object '_coin') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object '_coin') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object '_coin') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object '_coin') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object '_coin') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object '_coin') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object '_coin') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object '_coin') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object '_coin') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object '_coin') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object '_coin') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object '_coin') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object '_coin') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object '_coin') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object '_coin') is missing!
+ 
+(Filename:  Line: 1754)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 3324 -> priority: 1 

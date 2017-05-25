@@ -1,0 +1,1409 @@
+fileFormatVersion: 2
+guid: dbd2ca396e5283042bae256a69bd43e2
+timeCreated: 1466778097
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: inventory_0
+    21300002: inventory_1
+    21300004: inventory_2
+    21300006: inventory_3
+    21300008: inventory_4
+    21300010: inventory_5
+    21300012: inventory_6
+    21300014: inventory_7
+    21300016: inventory_8
+    21300018: inventory_9
+    21300020: inventory_10
+    21300022: inventory_11
+    21300024: inventory_12
+    21300026: inventory_13
+    21300028: inventory_14
+    21300030: inventory_15
+    21300032: inventory_16
+    21300034: inventory_17
+    21300036: inventory_18
+    21300038: inventory_19
+    21300040: inventory_20
+    21300042: inventory_21
+    21300044: inventory_22
+    21300046: inventory_23
+    21300048: inventory_24
+    21300050: inventory_25
+    21300052: inventory_26
+    21300054: inventory_27
+    21300056: inventory_28
+    21300058: inventory_29
+    21300060: inventory_30
+    21300062: inventory_31
+    21300064: inventory_32
+    21300066: inventory_33
+    21300068: inventory_34
+    21300070: inventory_35
+    21300072: inventory_36
+    21300074: inventory_37
+    21300076: inventory_38
+    21300078: inventory_39
+    21300080: inventory_40
+    21300082: inventory_41
+    21300084: inventory_42
+    21300086: inventory_43
+    21300088: inventory_44
+    21300090: inventory_45
+    21300092: inventory_46
+    21300094: inventory_47
+    21300096: inventory_48
+    21300098: inventory_49
+    21300100: inventory_50
+    21300102: inventory_51
+    21300104: inventory_52
+    21300106: inventory_53
+    21300108: inventory_54
+    21300110: inventory_55
+    21300112: inventory_56
+    21300114: inventory_57
+    21300116: inventory_58
+    21300118: inventory_59
+    21300120: inventory_60
+    21300122: inventory_61
+    21300124: inventory_62
+    21300126: inventory_63
+    21300128: inventory_64
+    21300130: inventory_65
+    21300132: inventory_66
+    21300134: inventory_67
+    21300136: inventory_68
+    21300138: inventory_69
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: inventory_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 25}
+        - {x: -25, y: -25}
+        - {x: 25, y: -25}
+        - {x: 25, y: 25}
+    - name: inventory_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 450
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 11}
+        - {x: -11, y: 11}
+        - {x: -11, y: -6}
+        - {x: -9, y: -11}
+        - {x: 8, y: -11}
+        - {x: 11, y: -4}
+        - {x: 11, y: 7}
+        - {x: 9, y: 10}
+    - name: inventory_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 450
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -3}
+        - {x: -10, y: -10}
+        - {x: 6, y: -10}
+        - {x: 11, y: -9}
+        - {x: 11, y: 5}
+        - {x: 10, y: 8}
+        - {x: -7, y: 8}
+        - {x: -12, y: 3}
+    - name: inventory_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 450
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 14}
+        - {x: -7, y: 12}
+        - {x: -13, y: 4}
+        - {x: -13, y: -10}
+        - {x: -12, y: -13}
+        - {x: 12, y: -13}
+        - {x: 14, y: -8}
+        - {x: 14, y: 3}
+        - {x: 6, y: 14}
+    - name: inventory_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 450
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 14}
+        - {x: -7, y: 12}
+        - {x: -13, y: 4}
+        - {x: -13, y: -10}
+        - {x: -12, y: -13}
+        - {x: 12, y: -13}
+        - {x: 14, y: -8}
+        - {x: 14, y: 3}
+        - {x: 6, y: 14}
+    - name: inventory_5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 450
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 22}
+        - {x: -15, y: 7}
+        - {x: -22, y: -7}
+        - {x: -22, y: -21}
+        - {x: 12, y: -21}
+        - {x: 21, y: -4}
+        - {x: 21, y: 19}
+        - {x: 20, y: 22}
+    - name: inventory_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 450
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 3}
+        - {x: 1, y: 1}
+        - {x: 1, y: -7}
+        - {x: 3, y: -9}
+        - {x: 13, y: -9}
+        - {x: 13, y: 3}
+    - name: inventory_7
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 450
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 3}
+        - {x: -1, y: 1}
+        - {x: -1, y: -7}
+        - {x: 1, y: -9}
+        - {x: 11, y: -9}
+        - {x: 11, y: 3}
+    - name: inventory_8
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 450
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 3}
+        - {x: -3, y: 1}
+        - {x: -3, y: -7}
+        - {x: -1, y: -9}
+        - {x: 9, y: -9}
+        - {x: 9, y: 3}
+    - name: inventory_9
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 450
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 3}
+        - {x: -5, y: 1}
+        - {x: -5, y: -7}
+        - {x: -3, y: -9}
+        - {x: 5, y: -9}
+        - {x: 7, y: -7}
+        - {x: 7, y: 1}
+        - {x: 5, y: 3}
+    - name: inventory_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 25}
+        - {x: -25, y: -25}
+        - {x: 25, y: -25}
+        - {x: 25, y: 25}
+    - name: inventory_11
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 400
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 25}
+        - {x: -25, y: -25}
+        - {x: 25, y: -25}
+        - {x: 25, y: 25}
+    - name: inventory_12
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 400
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 25}
+        - {x: -25, y: -25}
+        - {x: 25, y: -25}
+        - {x: 25, y: 25}
+    - name: inventory_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 400
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 25}
+        - {x: -25, y: -25}
+        - {x: 25, y: -25}
+        - {x: 25, y: 25}
+    - name: inventory_14
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 400
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 25}
+        - {x: -25, y: -25}
+        - {x: 25, y: -25}
+        - {x: 25, y: 25}
+    - name: inventory_15
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 400
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 25}
+        - {x: -25, y: -25}
+        - {x: 25, y: -25}
+        - {x: 25, y: 25}
+    - name: inventory_16
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 400
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 25}
+        - {x: -25, y: -25}
+        - {x: 25, y: -25}
+        - {x: 25, y: 25}
+    - name: inventory_17
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 400
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 25}
+        - {x: -25, y: -25}
+        - {x: 25, y: -25}
+        - {x: 25, y: 25}
+    - name: inventory_18
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 5}
+        - {x: -3, y: 3}
+        - {x: -3, y: -5}
+        - {x: -1, y: -7}
+        - {x: 9, y: -7}
+        - {x: 9, y: 5}
+    - name: inventory_19
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 400
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 5}
+        - {x: -5, y: 3}
+        - {x: -5, y: -5}
+        - {x: -3, y: -7}
+        - {x: 5, y: -7}
+        - {x: 7, y: -5}
+        - {x: 7, y: 3}
+        - {x: 5, y: 5}
+    - name: inventory_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 350
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 16}
+        - {x: -25, y: 4}
+        - {x: -25, y: -13}
+        - {x: -23, y: -15}
+        - {x: 25, y: -15}
+        - {x: 25, y: 4}
+        - {x: 19, y: 16}
+    - name: inventory_21
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 350
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 22}
+        - {x: -20, y: -2}
+        - {x: -20, y: -22}
+        - {x: 17, y: -22}
+        - {x: 19, y: -21}
+        - {x: 19, y: 14}
+        - {x: 15, y: 22}
+    - name: inventory_22
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 350
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 20}
+        - {x: -23, y: -19}
+        - {x: 23, y: -19}
+        - {x: 24, y: -16}
+        - {x: 24, y: 10}
+        - {x: 21, y: 20}
+    - name: inventory_23
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 350
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 21}
+        - {x: -22, y: 18}
+        - {x: -22, y: -19}
+        - {x: -20, y: -20}
+        - {x: 22, y: -20}
+        - {x: 22, y: 16}
+        - {x: 17, y: 21}
+    - name: inventory_24
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 350
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 18}
+        - {x: 7, y: 18}
+        - {x: -17, y: 8}
+        - {x: -18, y: -1}
+        - {x: -18, y: -19}
+        - {x: 0, y: -19}
+        - {x: 3, y: -13}
+        - {x: 3, y: -11}
+        - {x: 19, y: 9}
+    - name: inventory_25
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 350
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 22}
+        - {x: -9, y: 20}
+        - {x: -13, y: -4}
+        - {x: -13, y: -22}
+        - {x: 11, y: -22}
+        - {x: 15, y: -20}
+        - {x: 15, y: 19}
+        - {x: 14, y: 22}
+    - name: inventory_26
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 350
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 22}
+        - {x: -3, y: 13}
+        - {x: -24, y: -16}
+        - {x: -24, y: -22}
+        - {x: -12, y: -22}
+        - {x: 24, y: 4}
+        - {x: 24, y: 22}
+    - name: inventory_27
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 350
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 20}
+        - {x: -22, y: 10}
+        - {x: -22, y: -15}
+        - {x: -14, y: -20}
+        - {x: 16, y: -20}
+        - {x: 22, y: -10}
+        - {x: 22, y: 14}
+        - {x: 15, y: 20}
+    - name: inventory_28
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 350
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 7}
+        - {x: -3, y: 5}
+        - {x: -3, y: -3}
+        - {x: -1, y: -5}
+        - {x: 9, y: -5}
+        - {x: 9, y: 7}
+    - name: inventory_29
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 350
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 7}
+        - {x: -5, y: 5}
+        - {x: -5, y: -3}
+        - {x: -3, y: -5}
+        - {x: 5, y: -5}
+        - {x: 7, y: -3}
+        - {x: 7, y: 5}
+        - {x: 5, y: 7}
+    - name: inventory_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 20}
+        - {x: -18, y: 15}
+        - {x: -24, y: -5}
+        - {x: -24, y: -13}
+        - {x: -20, y: -18}
+        - {x: -14, y: -18}
+        - {x: -1, y: -5}
+        - {x: -1, y: 16}
+        - {x: -4, y: 20}
+      - - {x: 19, y: 16}
+        - {x: 15, y: 20}
+        - {x: 6, y: 20}
+        - {x: 1, y: 18}
+        - {x: 1, y: -5}
+        - {x: 12, y: -18}
+        - {x: 20, y: -18}
+        - {x: 24, y: -17}
+        - {x: 24, y: -6}
+        - {x: 22, y: -3}
+    - name: inventory_31
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 300
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 25}
+        - {x: -25, y: 25}
+        - {x: -25, y: -24}
+        - {x: -24, y: -25}
+        - {x: -4, y: -25}
+        - {x: -3, y: -22}
+        - {x: 4, y: -25}
+        - {x: 25, y: -25}
+    - name: inventory_32
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 300
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 23}
+        - {x: -18, y: 13}
+        - {x: -18, y: -8}
+        - {x: -17, y: -20}
+        - {x: 16, y: -20}
+        - {x: 18, y: -17}
+        - {x: 18, y: 20}
+        - {x: 17, y: 23}
+    - name: inventory_33
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 300
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 22}
+        - {x: -25, y: 13}
+        - {x: -25, y: -20}
+        - {x: 25, y: -20}
+        - {x: 25, y: 12}
+        - {x: 22, y: 22}
+    - name: inventory_34
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 300
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 24}
+        - {x: -9, y: 20}
+        - {x: -11, y: 4}
+        - {x: -11, y: -13}
+        - {x: -4, y: -24}
+        - {x: 9, y: -24}
+        - {x: 9, y: 23}
+        - {x: 6, y: 24}
+    - name: inventory_35
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 300
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 21}
+        - {x: 8, y: 18}
+        - {x: -21, y: -10}
+        - {x: -21, y: -17}
+        - {x: -16, y: -19}
+        - {x: 9, y: -19}
+        - {x: 21, y: -7}
+        - {x: 21, y: 21}
+    - name: inventory_36
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 300
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 25}
+        - {x: -8, y: 23}
+        - {x: -8, y: 5}
+        - {x: -4, y: -25}
+        - {x: 4, y: -25}
+        - {x: 8, y: -1}
+        - {x: 8, y: 22}
+        - {x: 2, y: 25}
+    - name: inventory_37
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 300
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 22}
+        - {x: -15, y: -20}
+        - {x: -7, y: -21}
+        - {x: 9, y: -21}
+        - {x: 15, y: -17}
+        - {x: 15, y: 20}
+        - {x: 14, y: 22}
+    - name: inventory_38
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 300
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 9}
+        - {x: -3, y: -1}
+        - {x: -1, y: -3}
+        - {x: 9, y: -3}
+        - {x: 9, y: 9}
+    - name: inventory_39
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 300
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 9}
+        - {x: -5, y: -1}
+        - {x: -3, y: -3}
+        - {x: 5, y: -3}
+        - {x: 7, y: -1}
+        - {x: 7, y: 9}
+    - name: inventory_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 250
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 14}
+        - {x: -19, y: 10}
+        - {x: -21, y: 7}
+        - {x: -21, y: -15}
+        - {x: -8, y: -15}
+        - {x: 0, y: -5}
+        - {x: 0, y: 9}
+        - {x: -3, y: 14}
+      - - {x: 0, y: 14}
+        - {x: 0, y: -7}
+        - {x: 1, y: -13}
+        - {x: 7, y: -15}
+        - {x: 21, y: -15}
+        - {x: 21, y: 6}
+        - {x: 17, y: 14}
+    - name: inventory_41
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 250
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: -21}
+        - {x: 19, y: -21}
+        - {x: 19, y: -9}
+        - {x: 16, y: 14}
+        - {x: 14, y: 19}
+        - {x: -19, y: 19}
+        - {x: -20, y: -2}
+        - {x: -20, y: -21}
+        - {x: -2, y: -21}
+        - {x: 0, y: -14}
+        - {x: -1, y: -19}
+        - {x: 1, y: -20}
+    - name: inventory_42
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 250
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: -4}
+        - {x: 20, y: 17}
+        - {x: 13, y: 24}
+        - {x: -12, y: 24}
+        - {x: -20, y: 17}
+        - {x: -24, y: 5}
+        - {x: -24, y: -9}
+        - {x: -17, y: -22}
+        - {x: 15, y: -22}
+        - {x: 18, y: -19}
+        - {x: 18, y: -17}
+        - {x: 25, y: -6}
+    - name: inventory_43
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 250
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 21}
+        - {x: -23, y: 1}
+        - {x: -23, y: -13}
+        - {x: -13, y: -16}
+        - {x: 23, y: -16}
+        - {x: 23, y: 11}
+        - {x: 20, y: 21}
+    - name: inventory_44
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 250
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 21}
+        - {x: -21, y: 8}
+        - {x: -14, y: -6}
+        - {x: 13, y: -22}
+        - {x: 22, y: -22}
+        - {x: 22, y: -16}
+        - {x: 21, y: -14}
+        - {x: -5, y: 21}
+    - name: inventory_45
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 250
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 22}
+        - {x: -12, y: 22}
+        - {x: -22, y: 9}
+        - {x: -22, y: -12}
+        - {x: -18, y: -16}
+        - {x: -6, y: -21}
+        - {x: 8, y: -21}
+        - {x: 19, y: 3}
+        - {x: 19, y: 13}
+    - name: inventory_46
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 250
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 10}
+        - {x: -2, y: 0}
+        - {x: 0, y: -2}
+        - {x: 10, y: -2}
+        - {x: 10, y: 10}
+    - name: inventory_47
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 250
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 10}
+        - {x: -4, y: 0}
+        - {x: -2, y: -2}
+        - {x: 8, y: -2}
+        - {x: 8, y: 10}
+    - name: inventory_48
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 250
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 9}
+        - {x: -3, y: -1}
+        - {x: -1, y: -3}
+        - {x: 9, y: -3}
+        - {x: 9, y: 9}
+    - name: inventory_49
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 250
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 9}
+        - {x: -5, y: -1}
+        - {x: -3, y: -3}
+        - {x: 5, y: -3}
+        - {x: 7, y: -1}
+        - {x: 7, y: 9}
+    - name: inventory_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 12}
+        - {x: -25, y: -2}
+        - {x: -25, y: -15}
+        - {x: 25, y: -15}
+        - {x: 25, y: -2}
+        - {x: 16, y: 12}
+    - name: inventory_51
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 200
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 21}
+        - {x: -16, y: 21}
+        - {x: -19, y: -6}
+        - {x: -19, y: -22}
+        - {x: 18, y: -22}
+        - {x: 20, y: -21}
+        - {x: 20, y: -12}
+        - {x: 14, y: 19}
+    - name: inventory_52
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 200
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 21}
+        - {x: -22, y: 15}
+        - {x: -22, y: 9}
+        - {x: -12, y: -20}
+        - {x: 11, y: -20}
+        - {x: 20, y: -18}
+        - {x: 24, y: 3}
+        - {x: 24, y: 16}
+        - {x: 21, y: 21}
+    - name: inventory_53
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 200
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 24}
+        - {x: -12, y: 18}
+        - {x: -12, y: -18}
+        - {x: -11, y: -22}
+        - {x: 15, y: -22}
+        - {x: 15, y: 13}
+        - {x: 6, y: 24}
+    - name: inventory_54
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -18}
+        - {x: 18, y: -18}
+        - {x: 18, y: 3}
+        - {x: 15, y: 16}
+        - {x: 2, y: 18}
+        - {x: -18, y: 18}
+        - {x: -18, y: 5}
+    - name: inventory_55
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 200
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 18}
+        - {x: -20, y: -20}
+        - {x: 16, y: -20}
+        - {x: 20, y: -18}
+        - {x: 20, y: 8}
+        - {x: 18, y: 18}
+    - name: inventory_56
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 200
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -6}
+        - {x: -24, y: -25}
+        - {x: 24, y: -25}
+        - {x: 24, y: -6}
+      - - {x: -1, y: 9}
+        - {x: -1, y: -1}
+        - {x: 1, y: -3}
+        - {x: 11, y: -3}
+        - {x: 11, y: 9}
+      - - {x: -21, y: 25}
+        - {x: -23, y: 23}
+        - {x: -23, y: 15}
+        - {x: -21, y: 13}
+        - {x: 23, y: 13}
+        - {x: 25, y: 15}
+        - {x: 25, y: 23}
+        - {x: 23, y: 25}
+    - name: inventory_57
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 200
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 9}
+        - {x: -2, y: -1}
+        - {x: 0, y: -3}
+        - {x: 10, y: -3}
+        - {x: 10, y: 9}
+    - name: inventory_58
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 200
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 13}
+        - {x: -3, y: 3}
+        - {x: -1, y: 1}
+        - {x: 9, y: 1}
+        - {x: 9, y: 13}
+    - name: inventory_59
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 200
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 13}
+        - {x: -5, y: 3}
+        - {x: -3, y: 1}
+        - {x: 5, y: 1}
+        - {x: 7, y: 3}
+        - {x: 7, y: 13}
+    - name: inventory_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 13}
+        - {x: -21, y: 8}
+        - {x: -21, y: -14}
+        - {x: 20, y: -14}
+        - {x: 21, y: -12}
+        - {x: 21, y: 3}
+        - {x: 16, y: 13}
+    - name: inventory_61
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 150
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 21}
+        - {x: -15, y: 15}
+        - {x: -15, y: -21}
+        - {x: 14, y: -21}
+        - {x: 15, y: -17}
+        - {x: 15, y: 21}
+    - name: inventory_62
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 150
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 20}
+        - {x: -21, y: 4}
+        - {x: -21, y: -20}
+        - {x: -16, y: -22}
+        - {x: 17, y: -22}
+        - {x: 22, y: -21}
+        - {x: 22, y: 20}
+    - name: inventory_63
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 150
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 18}
+        - {x: -22, y: 14}
+        - {x: -22, y: -15}
+        - {x: -18, y: -17}
+        - {x: -12, y: -18}
+        - {x: 21, y: -18}
+        - {x: 21, y: 18}
+    - name: inventory_64
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 150
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 19}
+        - {x: -9, y: 19}
+        - {x: -16, y: 12}
+        - {x: -16, y: -10}
+        - {x: -13, y: -19}
+        - {x: 17, y: -19}
+        - {x: 17, y: -10}
+        - {x: 12, y: 16}
+    - name: inventory_65
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 150
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 12}
+        - {x: 2, y: 2}
+        - {x: 4, y: 0}
+        - {x: 14, y: 0}
+        - {x: 14, y: 12}
+    - name: inventory_66
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 150
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: -15}
+        - {x: -24, y: -17}
+        - {x: -24, y: -23}
+        - {x: -22, y: -25}
+        - {x: 22, y: -25}
+        - {x: 24, y: -23}
+        - {x: 24, y: -17}
+        - {x: 22, y: -15}
+    - name: inventory_67
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 150
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 23}
+        - {x: -25, y: 17}
+        - {x: -25, y: -16}
+        - {x: -22, y: -23}
+        - {x: 18, y: -23}
+        - {x: 25, y: -21}
+        - {x: 25, y: 20}
+        - {x: 14, y: 23}
+    - name: inventory_68
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 150
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 18}
+        - {x: 0, y: 17}
+        - {x: 1, y: 5}
+        - {x: 1, y: 0}
+        - {x: 9, y: -13}
+        - {x: 1, y: 0}
+        - {x: 1, y: 5}
+        - {x: 0, y: 10}
+        - {x: -2, y: 18}
+        - {x: -14, y: 18}
+        - {x: -21, y: 16}
+        - {x: -23, y: -1}
+        - {x: -23, y: -24}
+        - {x: 25, y: -24}
+        - {x: 25, y: 7}
+        - {x: 19, y: 18}
+    - name: inventory_69
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 150
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 16}
+        - {x: -5, y: 6}
+        - {x: -3, y: 4}
+        - {x: 5, y: 4}
+        - {x: 7, y: 6}
+        - {x: 7, y: 16}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
