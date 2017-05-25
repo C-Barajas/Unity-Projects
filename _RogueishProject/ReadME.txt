@@ -12,7 +12,7 @@
 
 
 
-Project_1:
+Project_1: Procedurally Generated Dungeon Crawler
 
 **Updated**
 - GDD & TDD are sumbitted and pushed!!!
