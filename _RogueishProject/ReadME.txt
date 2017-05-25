@@ -10,10 +10,7 @@
  
  */
 
-*** I learned the hard way why it is important to use version control ***
 
-
-- Professor Price, sorry for the late submission I apologize. I hope I didn't dissappoint you.
 
 Project_1:
 
